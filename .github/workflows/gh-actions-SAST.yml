@@ -1,4 +1,4 @@
-name: Manny Static Analysis Security Testing (SAST)
+name: Static Analysis Security Testing (SAST)
 
 on:
   push:
